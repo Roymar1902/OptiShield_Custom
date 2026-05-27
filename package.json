@@ -43,9 +43,10 @@
     "url": "^0.11.4",
     "wa-sticker-formatter": "^4.4.4"
   },
-  "overrides": {
+"overrides": {
     "isolated-vm": "4.7.2"
-    "engines": {
+  },
+  "engines": {
     "node": "20"
   }
 }
