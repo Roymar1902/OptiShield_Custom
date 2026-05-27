@@ -1,0 +1,15 @@
+{
+  "node": "20",
+  "buildAptPackages": [
+    "libcairo2-dev",
+    "libpixman-1-dev",
+    "libpango1.0-dev",
+    "libjpeg-dev",
+    "libgif-dev",
+    "librsvg2-dev",
+    "python3",
+    "make",
+    "g++",
+    "build-essential"
+  ]
+}
